@@ -4,6 +4,7 @@
 </p>
 
 - 🔭 I’m currently working on ... detecting tired faces using YOLOv5
+- 🌱 I’m currently learning ... LangChain Framework
 
 ## 🛠 Tech Stack
 
