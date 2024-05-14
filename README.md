@@ -3,8 +3,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Data+Science+Enginner;Machine+Learning+Lover;Always+Learning" alt="Typing SVG" /></a>
 </p>
 
-- 🔭 I’m currently working on ... detecting tired faces using YOLOv5
-- 🌱 I’m currently learning ... LangChain Framework
+- 🔭 I’m currently working on ... Advanced Language Comprehension
+- 🌱 I’m currently learning ... RAG with LangChain
 
 ## 🛠 Tech Stack
 
