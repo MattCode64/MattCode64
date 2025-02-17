@@ -4,7 +4,7 @@
 </p>
 
 - 🔭 I’m currently working on ... Advanced Language Comprehension
-- 🌱 I’m currently learning ... RAG with LangChain
+- 🌱 I’m currently learning ... MLOps
 
 ## 🛠 Tech Stack
 
