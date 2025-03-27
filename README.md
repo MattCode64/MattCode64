@@ -3,8 +3,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Data+Science+Enginner;Machine+Learning+Lover;Always+Learning" alt="Typing SVG" /></a>
 </p>
 
-- 🔭 I’m currently working on ... Advanced Language Comprehension
-- 🌱 I’m currently learning ... MLOps
+- 🔭 I’m currently working on ... RL
+- 🌱 I’m currently learning ... Fine Tuning (?)
 
 ## 🛠 Tech Stack
 
