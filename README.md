@@ -4,7 +4,7 @@
 </p>
 
 - 🔭 I’m currently working on ... RL
-- 🌱 I’m currently learning ... Fine Tuning (?)
+- 🌱 I’m currently learning ... Fine Tuning with QLoRA on VLM
 
 ## 🛠 Tech Stack
 
